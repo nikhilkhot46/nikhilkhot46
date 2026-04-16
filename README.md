@@ -1,8 +1,8 @@
 # Hey, I'm Nikhil Khot 👋
 
-**Principal Software Engineer** based in Pune, India — 9+ years building web applications, leading teams, and shipping products that actually work.
+**Principal Software Engineer** based in Pune, India — 10+ years building web applications, leading teams, and shipping products that actually work.
 
-I lead a team of 5+ engineers, make architecture calls, and stay hands-on with code. Most recently cut API response times by **40%** on a telehealth platform. I care about clean code, fast queries, and systems that don't break at 2 AM.
+I lead a team of 5+ engineers, make architecture calls, and stay hands-on with code. Most recently cut API response times by **40%** on a telehealth platform. I care about clean code, fast queries, and systems that don't break.
 
 ---
 
@@ -37,7 +37,7 @@ I lead a team of 5+ engineers, make architecture calls, and stay hands-on with c
 - Optimize MySQL queries and indexing strategies
 - Run sprints, review code, mentor engineers
 - Implement security — JWT, RBAC, HIPAA compliance
-- Set up CI/CD pipelines and manage AWS deployments
+- CI/CD pipelines and manage AWS deployments
 - Talk to stakeholders about roadmaps and priorities
 
 ---
