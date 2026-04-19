@@ -44,5 +44,6 @@ I lead a team of 5+ engineers, make architecture calls, and stay hands-on with c
 
 ### Let's Connect
 
-📧 nikhilkhot46@gmail.com  
+🌐 Portfolio: [nikhilkhot.com](https://www.nikhilkhot.com) 
 🔗 [LinkedIn](https://www.linkedin.com/in/nikhilkhot46/)
+📧 nikhilkhot46@gmail.com  
